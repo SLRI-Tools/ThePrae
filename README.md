@@ -6,7 +6,7 @@ This software was developed to solve the 'big data' bottleneck at XAS beamlines.
 
 🚀 Key Features (Early Release):
 SLRI-Cal: An automated energy calibration tool for quick data alignment. It supports both external and in-line (reference foil) calibration modes.
-SLRI-LCF: A high-speed Linear Combination Fitting engine. It can generate and match up to 50,000 synthetic mixtures in approximately 10 seconds (depending on hardware specifications).
+SLRI-LCF: A high-speed Linear Combination Fitting engine. It can generate and match up to 50,000 synthetic mixtures in less than 10 seconds (e.g., ~5.23 seconds on a standard Intel Core i5-14500 workstation with 16 GB RAM).
 Minimalist UI: Designed for a short learning curve, allowing researchers to focus on their results rather than the tool.
 
 📦 Getting Started:
