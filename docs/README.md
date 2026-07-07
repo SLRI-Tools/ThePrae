@@ -6,7 +6,7 @@ Welcome to the official documentation directory for **The Persistent Reconstruct
 ---
 
 ## 📘 Available Manuals
-* **[User Manual (PDF)](./ThePrae_User_Manual.pdf)**: A comprehensive, step-by-step guide with graphical interface (UI) screenshots covering both **SLRI-Cal** (energy calibration) and **SLRI-LCF** (high-speed linear combination fitting) modules. *(Please ensure you have uploaded your PDF file named exactly 'ThePrae_User_Manual.pdf' into this docs folder).*
+* **[User Manual (PDF)]([./ThePrae_User_Manual.pdf](https://github.com/SLRI-Tools/ThePrae/blob/main/docs/ThePrae%20User%20Manual20261717.pdf))**: A comprehensive, step-by-step guide with graphical interface (UI) screenshots covering both **SLRI-Cal** (energy calibration) and **SLRI-LCF** (high-speed linear combination fitting) modules. *(Please ensure you have uploaded your PDF file named exactly 'ThePrae_User_Manual.pdf' into this docs folder).*
 
 ---
 
