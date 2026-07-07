@@ -13,7 +13,7 @@ The software is currently distributed as a standalone Windows installer (.exe) f
 1. **Download the Software**: Navigate to the [Releases](https://github.com/SLRI-Tools/ThePrae/releases) page on the right to download the latest installer `.exe`.
 2. **Read the Documentation**: For full installation instructions, detailed workflows, and screenshots, please visit our **[Documentation Hub](./docs/README.md)**.
 3. **Download Test Dataset**: We provide a complete set of sample XAS data and benchmarking materials. You can access and download them from our institutional repository here:
-   🔗 [Download Supplementary & Test Materials (SLRI SharePoint)](https://slri365-my.sharepoint.com/:f:/g/personal/anan_slri_or_th/IgCqxlxszfDwTIP0AL-c79GEAZZBBiUO2H-yhZZ-VD07b0w?e=zZ5vpp)
+   🔗 [Download Supplementary & Test Materials (SLRI SharePoint)](https://slri365-my.sharepoint.com)
 4. **Run the Program**: Install the software, load the downloaded test data, and follow the manual instructions to replicate the results mentioned in the paper.
 
 🛠 Developer’s Note:
