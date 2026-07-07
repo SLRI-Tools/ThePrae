@@ -22,7 +22,7 @@ For feedback or bug reports, please open an issue in this repository or contact 
 📜 License & Citation
 License: Free for academic and non-commercial research purposes.
 Citation: If ThePrae assists in your research, please consider citing it as:
-ThePrae Software (v1.1.3), SLRI-Tools, [https://github.com/SLRI-Tools/ThePrae]
+ThePrae Software (v1.1.3), SLRI-Tools, [https://github.com/SLRI-Tools/ThePrae/releases/download/v1.1.3/SLRI-XAS-Tools-setup-v1.1.3.exe]
 
 Contact
 For further inquiries, please contact: anan@slri.or.th
