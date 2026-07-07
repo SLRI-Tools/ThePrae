@@ -12,8 +12,14 @@ Minimalist UI: Designed for a short learning curve, allowing researchers to focu
 📦 Getting Started:
 The software is currently distributed as a standalone Windows installer (.exe) for ease of use. No additional libraries are required.
 Navigate to the Releases section on the right.
-Download the latest version from the [Releases](https://github.com/SLRI-Tools/The-Persistent-Reconstruction-of-Absorption-Ensembles/releases) page.
+Download the latest version from the [Releases](https://github.com/SLRI-Tools/ThePrae/releases) page.
 Run the installer and follow the on-screen instructions.
+
+📦 Supplementary Material & Testing
+1. **Download the Software:** Navigate to the **Releases** section on the right to download the latest standalone Windows installer (`.exe`).
+2. **Download Test Dataset:** We provide a complete set of sample XAS data and benchmarking materials. You can access and download them from our institutional repository here:
+   🔗 [Download Supplementary & Test Materials (SLRI SharePoint)](https://slri365-my.sharepoint.com/:f:/g/personal/anan_slri_or_th/IgCqxlxszfDwTIP0AL-c79GEAZZBBiUO2H-yhZZ-VD07b0w?e=zZ5vpp)
+3. **Run the Program:** Install the software, load the downloaded test data, and follow the instructions to replicate the results mentioned in the paper.
 
 🛠 Developer’s Note:
 Please note that this is an ongoing project. I am very open to feedback and suggestions from the community to improve the algorithms and features in future updates.
