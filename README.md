@@ -1,34 +1,29 @@
-The Persistent Reconstruction of Absorption Ensembles
-(Version 1.1.3 - SLRI-Tools)
+The Persistent Reconstruction of Absorption Ensembles (Version 1.1.3 - SLRI-Tools)
 
-The Persistent Reconstruction of Absorption Ensembles (ThePrae) is a lightweight software suite designed to streamline the handling of large-scale XAS datasets. Developed with a focus on high-throughput processing, its primary goal is to reduce the manual workload in data preparation and preliminary analysis.
-This software was developed to solve the 'big data' bottleneck at XAS beamlines. With a focus on stability and speed, it can transform days of work into minutes by applying efficient numerical methods to data normalization and spectral matching.
+The Persistent Reconstruction of Absorption Ensembles (ThePrae) is a lightweight software suite designed to streamline the handling of large-scale XAS datasets. Developed with a focus on high-throughput processing, its primary goal is to reduce the manual workload in data preparation and preliminary analysis. This software was developed to solve the 'big data' bottleneck at XAS beamlines. With a focus on stability and speed, it can transform days of work into minutes by applying efficient numerical methods to data normalization and spectral matching.
 
 🚀 Key Features (Early Release):
-SLRI-Cal: An automated energy calibration tool for quick data alignment. It supports both external and in-line (reference foil) calibration modes.
-SLRI-LCF: A high-speed Linear Combination Fitting engine. It can generate and match up to 50,000 synthetic mixtures in less than 10 seconds (e.g., ~5.23 seconds on a standard Intel Core i5-14500 workstation with 16 GB RAM).
-Minimalist UI: Designed for a short learning curve, allowing researchers to focus on their results rather than the tool.
+* **SLRI-Cal**: An automated energy calibration tool for quick data alignment. It supports both external and in-line (reference foil) calibration modes.
+* **SLRI-LCF**: A high-speed Linear Combination Fitting engine. It can generate and match up to 50,000 synthetic mixtures in less than 10 seconds (e.g., ~5.23 seconds on a standard Intel Core i5-14500 workstation with 16 GB RAM).
+* **Minimalist UI**: Designed for a short learning curve, allowing researchers to focus on their results rather than the tool.
 
-📦 Getting Started:
+📦 Getting Started & Testing
 The software is currently distributed as a standalone Windows installer (.exe) for ease of use. No additional libraries are required.
-Navigate to the Releases section on the right.
-Download the latest version from the [Releases](https://github.com/SLRI-Tools/ThePrae/releases) page.
-Run the installer and follow the on-screen instructions.
 
-📦 Supplementary Material & Testing
-1. **Download the Software:** Navigate to the **Releases** section on the right to download the latest standalone Windows installer (`.exe`).
-2. **Download Test Dataset:** We provide a complete set of sample XAS data and benchmarking materials. You can access and download them from our institutional repository here:
+1. **Download the Software**: Navigate to the [Releases](https://github.com/SLRI-Tools/ThePrae/releases) page on the right to download the latest installer `.exe`.
+2. **Read the Documentation**: For full installation instructions, detailed workflows, and screenshots, please visit our **[Documentation Hub](./docs/README.md)**.
+3. **Download Test Dataset**: We provide a complete set of sample XAS data and benchmarking materials. You can access and download them from our institutional repository here:
    🔗 [Download Supplementary & Test Materials (SLRI SharePoint)](https://slri365-my.sharepoint.com/:f:/g/personal/anan_slri_or_th/IgCqxlxszfDwTIP0AL-c79GEAZZBBiUO2H-yhZZ-VD07b0w?e=zZ5vpp)
-3. **Run the Program:** Install the software, load the downloaded test data, and follow the instructions to replicate the results mentioned in the paper.
+4. **Run the Program**: Install the software, load the downloaded test data, and follow the manual instructions to replicate the results mentioned in the paper.
 
 🛠 Developer’s Note:
-Please note that this is an ongoing project. I am very open to feedback and suggestions from the community to improve the algorithms and features in future updates.
-For feedback or bug reports, please open an issue in this repository or contact the beamline scientists.
+Please note that this is an ongoing project. I am very open to feedback and suggestions from the community to improve the algorithms and features in future updates. For feedback or bug reports, please open an issue in this repository or contact the beamline scientists.
 
 📜 License & Citation
-License: Free for academic and non-commercial research purposes.
-Citation: If ThePrae assists in your research, please consider citing it as:
-ThePrae Software (v1.1.3), SLRI-Tools, [https://github.com/SLRI-Tools/ThePrae/releases/download/v1.1.3/SLRI-XAS-Tools-setup-v1.1.3.exe]
+* **License**: Free for academic and non-commercial research purposes.
+* **Citation**: If ThePrae assists in your research, please consider citing it as:
+  > Anan et al., "The Persistent Reconstruction of Absorption Ensembles (ThePrae)", Computer Physics Communications (Submitted/Under Review).
+  > *Repository Link: [https://github.com/SLRI-Tools/ThePrae]*
 
 Contact
 For further inquiries, please contact: anan@slri.or.th
