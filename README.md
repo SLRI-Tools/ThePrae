@@ -12,9 +12,7 @@ The software is currently distributed as a standalone Windows installer (.exe) f
 
 1. **Download the Software**: Navigate to the [Releases](https://github.com/SLRI-Tools/ThePrae/releases) page on the right to download the latest installer `.exe`.
 2. **Read the Documentation**: For full installation instructions, detailed workflows, and screenshots, please visit our **[Documentation Hub](./docs/README.md)**.
-3. **Download Test Dataset**: We provide a complete set of sample XAS data and benchmarking materials. You can access and download them from our institutional repository here:
-   🔗 [Download Sample Data (SLRI SharePoint)](https://slri365-my.sharepoint.com/:f:/g/personal/anan_slri_or_th/IgAQPnHLW7ZkRadmtkOtwTZDAUAIIrkFhxNZoJAIFaC8gQ4?e=5eMeIc)
-4. **Run the Program**: Install the software, load the downloaded test data, and follow the manual instructions to replicate the results mentioned in the paper.
+3. **Run the Program**: Install the software, load the downloaded test data, and follow the manual instructions to replicate the results mentioned in the paper.
 
 🛠 Developer’s Note:
 Please note that this is an ongoing project. I am very open to feedback and suggestions from the community to improve the algorithms and features in future updates. For feedback or bug reports, please open an issue in this repository or contact the beamline scientists.
