@@ -1,4 +1,4 @@
-The Persistent Reconstruction of Absorption Ensembles (Version 1.1.4 - SLRI-Tools)
+The Persistent Reconstruction of Absorption Ensembles (Version 1.1.5 - SLRI-Tools)
 
 The Persistent Reconstruction of Absorption Ensembles (ThePrae) is a lightweight software suite designed to streamline the handling of large-scale XAS datasets. Developed with a focus on high-throughput processing, its primary goal is to reduce the manual workload in data preparation and preliminary analysis. This software was developed to solve the 'big data' bottleneck at XAS beamlines. With a focus on stability and speed, it can transform days of work into minutes by applying efficient numerical methods to data normalization and spectral matching.
 
